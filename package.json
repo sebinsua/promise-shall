@@ -1,0 +1,25 @@
+{
+  "name": "promise-shall",
+  "version": "0.0.0",
+  "description": "Small helper function to automatically call a function with the data from the previous promise passed through or just to return a promise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sebinsua/promise-shall.git"
+  },
+  "keywords": [
+    "promise",
+    "shall",
+    "future",
+    "easy"
+  ],
+  "author": "Seb Insua <me@sebinsua.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebinsua/promise-shall/issues"
+  },
+  "homepage": "https://github.com/sebinsua/promise-shall#readme"
+}
