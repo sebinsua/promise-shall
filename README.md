@@ -3,8 +3,8 @@
 
 ```javascript
 
-promise.then(shall(returnThisPromisesData)).
-        then(shall(callThisFunctionWithTheDataToReturnAPromise)).
-        then(shall(callThisFunctionWithNewDataToReturnEvenNewerData));
+getCar().then(shall(putKeyInIgnition)).
+         then(shall(turnKey)).
+         then(shall(drive));
 
 ```
